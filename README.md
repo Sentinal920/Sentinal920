@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sentinal920" alt="sentinal920" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sentinal920" target="blank"><img src="https://img.shields.io/twitter/follow/sentinal920?logo=twitter&style=for-the-badge" alt="sentinal920" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunalpatel920" target="blank"><img src="https://img.shields.io/twitter/follow/kunalpatel920?logo=twitter&style=for-the-badge" alt="kunalpatel920" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sentinal920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sentinal920" height="30" width="40" /></a>
+<a href="https://twitter.com/kunalpatel920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalpatel920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
